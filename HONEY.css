@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+/* body{
+    height: 500px;
+    width: 800px;
+    background-color: #46200b;
+} */
+#nav{
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+#direction h1{
+    flex-direction: row;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+#direction{
+    color: white;
+    height: 800px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-;
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    margin-left: 20px;
+    margin-top: -50px;
+    
+}
